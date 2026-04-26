@@ -12,5 +12,5 @@
   <img src="https://cdn.simpleicons.org/github/white" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/DBeaver_logo.svg" width="40"/>
+  <img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" width="40"/>
 </p>
