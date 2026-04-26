@@ -12,5 +12,5 @@
   <img src="https://cdn.simpleicons.org/github/white" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
-  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/DBeaver_logo.svg" width="40"/>
 </p>
