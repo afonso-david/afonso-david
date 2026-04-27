@@ -16,6 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="40"/>
+  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" width="40"/>
 </p>
 
 ## 📊 GitHub Stats
