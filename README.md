@@ -17,3 +17,14 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="40"/>
 </p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=afonso-david&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afonso-david&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=afonso-david&theme=tokyonight" height="150"/>
+</p>
