@@ -15,7 +15,7 @@
 
 <br/>
 
-<img align="right" width="200" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+<img align="right" width="140" src="./assets/spaceship.png" />
 
 > I'm a **determined and persistent** developer who's always pushing ideas from concept to working product. I don't just like building things — I like *finishing* them.
 
