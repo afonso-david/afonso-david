@@ -15,9 +15,9 @@
 
 <br/>
 
-<img align="right" width="260" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+<img align="right" width="200" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
-> I'm a **determined and persistent** developer who's always pushing ideas from concept to working product. I don't just like building things — I like *finishing* them, even when that means debugging the same issue at 2am or rebuilding a feature from scratch to get it right.
+> I'm a **determined and persistent** developer who's always pushing ideas from concept to working product. I don't just like building things — I like *finishing* them.
 
 <br clear="right"/>
 
@@ -83,6 +83,17 @@
 
 ## 📊 GitHub Stats
 
+<!--
+  ⚙️ VERSION B — single compact dashboard (lowlighter/metrics)
+  Requires the GitHub Action in .github/workflows/metrics.yml to run at least once.
+  Once it runs, it generates github-metrics.svg in your repo — uncomment the line below
+  and delete (or comment out) the Version A block beneath it.
+
+  <div align="center">
+    <img src="./github-metrics.svg" alt="GitHub metrics"/>
+  </div>
+-->
+
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=afonso-david&show_icons=true&hide_border=true&bg_color=0A1128&title_color=4FC3F7&icon_color=4FC3F7&text_color=E8F1FF&count_private=true"/>
@@ -90,11 +101,8 @@
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=afonso-david&hide_border=true&background=0A1128&stroke=0A1128&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7&sideLabels=E8F1FF&currStreakNum=E8F1FF&sideNums=E8F1FF&dates=6E91C7"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=afonso-david&theme=algolia&no-frame=true&row=1&column=6&margin-w=8"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=afonso-david&hide_border=true&background=0A1128&stroke=0A1128&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7&sideLabels=E8F1FF&currStreakNum=E8F1FF&sideNums=E8F1FF&dates=6E91C7"/>
+<img height="165" src="https://github-profile-trophy.vercel.app/?username=afonso-david&theme=algolia&no-frame=true&row=2&column=3&margin-w=8&margin-h=8"/>
 
 </div>
 
