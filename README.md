@@ -52,7 +52,7 @@
 <br/><br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="36" title="Spring"/>
 <img src="https://cdn.simpleicons.org/flask/4FC3F7" width="36" title="Flask"/>
-<img src="https://cdn.simpleicons.org/swagger/4FC3F7" width="36" title="Swagger"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="36" title=".NET"/>
 
 </td>
 <td valign="top" align="center" width="20%">
@@ -72,6 +72,34 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" title="Figma"/>
 <img src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" width="36" title="DBeaver"/>
 <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" width="36" title="Android Studio"/>
+<img src="https://cdn.simpleicons.org/swagger/4FC3F7" width="36" title="Swagger"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## 🚀 Featured Project
+
+<table align="center">
+<tr>
+<td width="40%" valign="middle">
+
+### 🎬 CineVibe
+
+A full-stack movie ticket booking platform built as my final-year capstone project — complete seat selection, concession ordering, a loyalty system, and a full admin dashboard, backed by a 40+ table relational database.
+
+**Stack:** Python · Flask · MySQL · JavaScript
+
+[![Repo](https://img.shields.io/badge/-View%20Repository-0A1128?style=for-the-badge&logo=github&logoColor=4FC3F7)](https://github.com/afonso-david/CineVibe)
+
+</td>
+<td width="60%">
+
+<img src="https://raw.githubusercontent.com/afonso-david/CineVibe/master/static/imgs/Logo/Captura%20de%20ecr%C3%A3%202026-06-29%20105433.png" alt="CineVibe homepage"/>
 
 </td>
 </tr>
