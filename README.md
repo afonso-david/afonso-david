@@ -15,7 +15,7 @@
 
 <br/>
 
-<img align="right" width="160" src="./assets/spaceship.svg" />
+<img align="right" width="160" src="assets\spaceship.svg" />
 
 > I'm a **determined and persistent** developer who's always pushing ideas from concept to working product. I don't just like building things — I like *finishing* them.
 
