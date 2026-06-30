@@ -52,7 +52,6 @@
 <br/><br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="36" title="Spring"/>
 <img src="https://cdn.simpleicons.org/flask/4FC3F7" width="36" title="Flask"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="36" title=".NET"/>
 
 </td>
 <td valign="top" align="center" width="20%">
